@@ -5,7 +5,7 @@ void main(){
 std::cout<< "Hello World"<<std::endl;
 
 int nil = 96;
-float isaac = 10.0f;
+float isaac = 5;
 int Jimmynator = 3;
 int JoanMarc = 9 + 1 / 10;
 int iAmDavid = 400;
